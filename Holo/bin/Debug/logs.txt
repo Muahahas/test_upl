@@ -1,0 +1,14 @@
+==================[06/07/2024 14:33:52]==================
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Overlay.NET.Directx.Direct2DRenderer.DrawText(String text, Int32 font, Int32 brush, Int32 x, Int32 y, Boolean bufferText) in C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\Directx\Direct2DRenderer.cs:line 667
+   at Holo.Overlay.InternalRender() in C:\Users\Eloi\Desktop\Albion-radar-latest\Holo\Overlay.cs:line 224
+   at Holo.Overlay.OnTick(Object sender, EventArgs e) in C:\Users\Eloi\Desktop\Albion-radar-latest\Holo\Overlay.cs:line 60
+   at Overlay.NET.Common.TickEngine.OnTick() in C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\Common\TickEngine.cs:line 75
+   at Overlay.NET.Common.TickEngine.Pulse() in C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\Common\TickEngine.cs:line 66
+   at Holo.Overlay.Update() in C:\Users\Eloi\Desktop\Albion-radar-latest\Holo\Overlay.cs:line 107
+   at Holo.MainForm.<>c.<.ctor>b__5_1() in C:\Users\Eloi\Desktop\Albion-radar-latest\Holo\MainForm.cs:line 52
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+=========================================================

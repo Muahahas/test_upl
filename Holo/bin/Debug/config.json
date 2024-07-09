@@ -1,0 +1,708 @@
+{
+  "RadarParams": {
+    "XOffset": 10,
+    "YOffset": 160,
+    "Size": 200,
+    "Scale": 2
+  },
+  "Players": {
+    "ShowPlayers": true,
+    "PlaySound": false
+  },
+  "Wood": {
+    "Tier": [
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    ]
+  },
+  "Stone": {
+    "Tier": [
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  "Hide": {
+    "Tier": [
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  "Ore": {
+    "Tier": [
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    ]
+  },
+  "Fiber": {
+    "Tier": [
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    ]
+  },
+  "MWood": {
+    "Tier": [
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    ]
+  },
+  "MHide": {
+    "Tier": [
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  "MOre": {
+    "Tier": [
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    ]
+  },
+  "MFiber": {
+    "Tier": [
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": true,
+        "Enchants": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      {
+        "Enabled": false,
+        "Enchants": [
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    ]
+  },
+  "WSettings": {
+    "Enchants": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "Mobs": {
+    "ShowMobs": true
+  }
+}
