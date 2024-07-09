@@ -1,0 +1,10 @@
+C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\bin\Debug\net8.0-windows\Overlay.NET.deps.json
+C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\bin\Debug\net8.0-windows\Overlay.NET.dll
+C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\bin\Debug\net8.0-windows\Overlay.NET.pdb
+C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\obj\Debug\net8.0-windows\Overlay.NET.csproj.AssemblyReference.cache
+C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\obj\Debug\net8.0-windows\Overlay.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\obj\Debug\net8.0-windows\Overlay.NET.csproj.CoreCompileInputs.cache
+C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\obj\Debug\net8.0-windows\Overlay.NET.dll
+C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\obj\Debug\net8.0-windows\refint\Overlay.NET.dll
+C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\obj\Debug\net8.0-windows\Overlay.NET.pdb
+C:\Users\Eloi\Desktop\Albion-radar-latest\Overlay.NET\obj\Debug\net8.0-windows\ref\Overlay.NET.dll
